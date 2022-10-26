@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/postgresql.svg" alt= "Postgresql" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/mysql.svg" alt= "mysql" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/vscode.svg" alt= "vscode" width="48" height="48"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain-wordmark.svg" alt= "Python" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/bootstrap.svg" alt= "bootstrap" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/html5.svg" alt= "html" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/css3.svg" alt= "css" width="48" height="48"/> 
