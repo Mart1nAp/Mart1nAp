@@ -10,3 +10,5 @@ Python Python Python
 Java  Python  React  Vuejs  GraphQl  Spring  Django  Material UI  CSS  HTML  JavaScript  MongoDB  MySQL  NodeJS  Git 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
