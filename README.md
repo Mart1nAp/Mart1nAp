@@ -23,5 +23,5 @@ I am a passionate developer. My passion for software is based on dreaming up ide
 
 ## My linkeId 
  
-<img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/6f1aefa4b7594b47a780442b3f528ea6b1fa72fe/imgs/linkedin.svg" href="https://www.linkedin.com/in/martín-aponte-8853b298/" alt= "css" width="100" height="48"/>
+<img src="linkedin.svg" href="https://www.linkedin.com/in/martín-aponte-8853b298/" alt= "css" width="100" height="48"/>
  
