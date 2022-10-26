@@ -15,7 +15,9 @@ I am a passionate developer. My passion for software is based on dreaming up ide
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/css3.svg" alt= "css" width="48" height="48"/> 
  
 
-## My Github Stats
+## My Github Stats:
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
  
  
                       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
