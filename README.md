@@ -13,6 +13,7 @@
 <h2 align="center">  Languages and Tools: </h2> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt= "Python" width="48" height="48"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt= "java" width="48" height="48"/> 
 <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/django.svg" alt= "django" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/postgresql.svg" alt= "Postgresql" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/mysql.svg" alt= "mysql" width="48" height="48"/> 
