@@ -1,6 +1,4 @@
- ### Hi everyone 👋, I'm Martin.
-
-
+# Hi everyone 👋, I'm Martin.
 I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
 ## Languages and Tools:
@@ -16,9 +14,9 @@ I am a passionate developer. My passion for software is based on dreaming up ide
  
 
 ## My Github Stats
-  
+ 
+<p align="center"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My linkeId 
