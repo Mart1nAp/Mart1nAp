@@ -1,4 +1,4 @@
-<h1 align="center"> # Hi everyone 👋, I'm Martin </h1> # Hi everyone 👋, I'm Martin.
+<h1 align="center">  Hi everyone 👋, I'm Martin. </h1> 
 I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
 
