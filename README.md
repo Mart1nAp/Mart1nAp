@@ -27,5 +27,5 @@ I am a passionate developer. My passion for software is based on dreaming up ide
 <h2 align="center">  My linkeId: </h2> 
 
 <p align="center">
-<img src="img/linkedin.svg"  href="https://www.linkedin.com/in/martín-aponte-8853b298/" alt= "css" width="100" height="48"/>
+<img src="img/linkedin.svg" alt= "css" width="100" height="48"/>
  
