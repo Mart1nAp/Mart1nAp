@@ -1,6 +1,8 @@
 # Hi everyone 👋, I'm Martin.
 I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
+
+
 ## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt= "Python" width="48" height="48"/> 
