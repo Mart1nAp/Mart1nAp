@@ -1,5 +1,12 @@
 <h1 align="center">  Hi everyone 👋, I'm Martin. </h1> 
-I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
+- I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
+
+* <p>
+  <a href="https://www.linkedin.com/in/martín-aponte-8853b298/" target="blank"><img align="center" src="img/linkedin.svg" alt="ariel" height="30" width="30" title="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ArielXL/" target="blank"><img align="center" src="img/github.svg" alt="ArielXL" height="30" width="30" title="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 
 
 
