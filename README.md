@@ -3,7 +3,7 @@
 I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
 ## Languages and Tools:
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt= "Python" width="48" height="48"/> 
 <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/django.svg" alt= "django" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/postgresql.svg" alt= "Postgresql" width="48" height="48"/> 
@@ -22,5 +22,5 @@ I am a passionate developer. My passion for software is based on dreaming up ide
 
 ## My linkeId 
  
-<img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/6f1aefa4b7594b47a780442b3f528ea6b1fa72fe/imgs/linkedin.svg" url="https://www.linkedin.com/in/martín-aponte-8853b298/" alt= "css" width="100" height="48"/>
+<img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/6f1aefa4b7594b47a780442b3f528ea6b1fa72fe/imgs/linkedin.svg" href="https://www.linkedin.com/in/martín-aponte-8853b298/" alt= "css" width="100" height="48"/>
  
