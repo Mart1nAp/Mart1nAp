@@ -9,4 +9,4 @@ Python Python Python
 🛠️ Languages and Tools:
 Java  Python  React  Vuejs  GraphQl  Spring  Django  Material UI  CSS  HTML  JavaScript  MongoDB  MySQL  NodeJS  Git 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
