@@ -15,7 +15,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt= "Python" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt= "java" width="60" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt= "flask" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt= "flask" width="80" height="80"/> 
 <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/django.svg" alt= "django" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/postgresql.svg" alt= "Postgresql" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/mysql.svg" alt= "mysql" width="60" height="60"/> 
