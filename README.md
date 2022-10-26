@@ -3,7 +3,9 @@
 I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
 ## Languages and Tools:
-![This is an image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg)width ="10xp"![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/django.svg)  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt= "Python" width="48" height="48"/> 
+  [This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/django.svg)  
 ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/postgresql.svg)
 ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/mysql.svg) ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/vscode.svg) ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/bootstrap.svg)  ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/html5.svg)  ![This is an image](https://raw.githubusercontent.com/ArielXL/ArielXL/90f34e14d3b362f49420b10370502f175b767be8/img/css3.svg)   
 
@@ -12,4 +14,4 @@ I am a passionate developer. My passion for software is based on dreaming up ide
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My linkeId ![This is an image](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/6f1aefa4b7594b47a780442b3f528ea6b1fa72fe/imgs/linkedin.svg).md(https://www.linkedin.com/in/martín-aponte-8853b298/).
+## My linkeId ![This is an image](https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/6f1aefa4b7594b47a780442b3f528ea6b1fa72fe/imgs/linkedin.svg)
