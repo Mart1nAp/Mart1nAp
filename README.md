@@ -5,7 +5,7 @@
 * <p>
   <a href="https://www.linkedin.com/in/martín-aponte-8853b298/" target="blank"><img align="center" src="img/linkedin.svg" alt="1" height="30" width="30" title="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ArielXL/" target="blank"><img align="center" src="img/github.svg" alt="2" height="30" width="30" title="GitHub" /></a>
+  <a href="https://github.com/mart1nap/" target="blank"><img align="center" src="img/github.svg" alt="2" height="30" width="30" title="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
