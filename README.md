@@ -19,9 +19,9 @@ I am a passionate developer. My passion for software is based on dreaming up ide
  
 <p align="center"> 
   
-<img src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)/>
+                      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
   
-<img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)/>
+                      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My linkeId 
  
