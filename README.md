@@ -25,10 +25,26 @@
 <h2 align="center">  My Github Stats: </h2> 
 
 <p align="center">
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart1nap&show_icons=true&theme=radical)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="http://www.github.com/mart1nap">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mart1nap&theme=omni&show_icons=true&count_private=true&hide_border=true" alt="mart1nap" />
+    </a>
+</p>
+
+
+
+<p align="center">
+    <a href="http://www.github.com/mart1nap">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart1nap&layout=compact&langs_count=8&theme=omni&hide_border=true" alt="mart1nap" />
+    </a>
+</p>
+
+
+
+<p align="center">
+    <a href="http://www.github.com/mart1nap">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mart1nap&theme=omni&hide_border=true" alt="mart1nap" />
+    </a>
+</p>
 
 
  
