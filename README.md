@@ -1,4 +1,4 @@
-<h1 align="center">  Hi everyone 👋, I'm Martin. </h1> 
+<h1 align="center">  Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Martin. </h1> 
 - I am a passionate developer. My passion for software is based on dreaming up ideas and making them come true. I make sure the code quality of the things I build are excellent.
 
 * <p>
